@@ -15,5 +15,6 @@ else
       cd ..
 fi
 
+cd MinScripts
 cd Scripts
 compile.sh
