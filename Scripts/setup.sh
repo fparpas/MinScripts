@@ -10,7 +10,7 @@ then
       echo "Running with latest version from git..."
 else
       echo "checkout tag $gittag"
-      cd Scripts
+      cd MinScripts
       git checkout $gittag
       cd ..
 fi
