@@ -17,5 +17,5 @@ fi
 
 cd MinScripts
 cd Scripts
-chmod u+x compile.sh ;
+chmod u+x compile.sh
 sudo ./compile.sh
