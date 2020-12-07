@@ -16,4 +16,6 @@ else
 fi
 
 cd MinScripts
-Scripts/compile.sh
+cd Scripts
+chmod u+x compile.sh ;
+sudo ./compile.sh
